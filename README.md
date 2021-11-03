@@ -1,6 +1,4 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
-# Project
+# City-Mapper
 
 ## Built With
 
@@ -11,6 +9,7 @@
 - ES6
 - External API
 - JSON
+- Ajax
 
 ## Screenshot
 
@@ -18,7 +17,7 @@
 
 ## Live Demo
 
-[Live View!!](https://vagyasri.github.io/Leaderboard/dist/)
+[Live View!!](https://vagyasri.github.io/City-Mapper/dist/)
 
 ## Author
 
@@ -38,9 +37,9 @@
 
 ### Cloning the repo to your local system (If you already have git, installed in your system):
 
-- [Copy this link](https://github.com/Vagyasri/Kanban.git)
+- [Copy this link](https://github.com/Vagyasri/City-Mapper.git)
 - Open your terminal or command line
-- Run "git clone [Paste this link](https://github.com/Vagyasri/Kanban.git)"
+- Run "git clone [Paste this link](https://github.com/Vagyasri/City-Mapper.git)"
 - Open the folder with your code editor
 - Now You can edit the code and check the changes in the browser using Live Server
 
@@ -81,7 +80,7 @@ Start by:
 - Push your branch up to your forked repository
 - Open a Pull Request with a detailed description to the development branch of the original project for a review
 
-Feel free to check the [issues page](https://github.com/Vagyasri/Kanban/issues), contribute to the Project by creating an issue.
+Feel free to check the [issues page](https://github.com/Vagyasri/City-Mapper/issues), contribute to the Project by creating an issue.
 
 
 ## Show your support
