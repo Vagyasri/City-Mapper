@@ -1,5 +1,7 @@
 # City-Mapper
 
+In this Project, I am creating a web application that will allow users to find the cities searching by their names. Here, I have used an external API to fetch the cities information.
+
 ## Built With
 
 - HTML
